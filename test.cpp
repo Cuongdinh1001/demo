@@ -1,1 +1,7 @@
-#include <__bit_reference>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  return 0;
+}
